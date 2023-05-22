@@ -4,7 +4,7 @@
 
 <h1 align="center">Zyada</h1>
 
-Brief introduction about your project.
+Zyada is an object detection mobile application that aims to help museum visitors gain more information about certain objects, and view their 3D/AR models for an interactive experience.
 
 ## Built With
 
